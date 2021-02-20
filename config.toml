@@ -6,7 +6,7 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "en"
 paginate = 3
-theme = "]github.com/adityatelange/hugo-PaperMod"
+theme = "github.com/adityatelange/hugo-PaperMod"
 title = "Hugo Themes"
 [[menu.main]]
 identifier = "about"
